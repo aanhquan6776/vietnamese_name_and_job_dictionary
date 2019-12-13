@@ -1,6 +1,135 @@
-học sinh, sinh viên (giải thưởng, cuộc thi)
-vận động viên (seagames, olympic, paralympic)
-người nổi tiếng (diễn viên, ca sĩ)
-
-wikipedia
-
+UBND
+DNTN
+TAXI
+TNHH
+CTY
+HTX
+CP
+HĐND
+TT
+XD
+.
+,
+-
+\d
+bưu điện
+ủy ban
+Thành ủy
+Công cộng
+Tổ chức
+nội chính
+Chủ tịch
+Tuyên giáo
+Tỉnh ủy
+Nhà khách
+dân vận
+tài chính
+thư viện
+công nghệ
+viễn thông
+bệnh viện
+công an
+ngân hàng
+công cộng
+Văn phòng 
+Chủ tịch nước 
+Quốc hội
+Chính phủ
+Tòa án
+Nhân dân
+Tối cao
+Kiểm sát
+Thông tin
+Truyền thông
+Công an
+Công thương
+Giáo dục
+Đào tạo
+Giao thông
+Vận tải
+Khoa học
+Công nghệ
+Kế hoạch
+Đầu tư
+Lao động
+Thương binh
+Xã hội
+Nông nghiệp
+Phát triển
+Nông thôn
+Nội vụ
+Ngoại giao
+Quốc phòng
+Tài chính
+Tài nguyên
+Môi trường
+Văn hóa
+Thể thao
+Du lịch
+Xây dựng
+Y tế
+Ngân hàng
+Nhà nước
+Thanh tra
+Chính phủ
+Ủy ban
+Dân tộc
+Tổng cục
+Thể dục
+Cơ yếu
+Tôn giáo
+Quản lý
+Bảo hiểm
+Tiếng nói
+Truyền hình
+Thông tấn xã
+Học viện
+Chính trị
+Hành chính
+Thống kê
+Hải quan
+Thuế
+Ủy ban
+Chứng khoán
+Kiểm toán
+Nhà nước
+Văn phòng
+Trung ương
+Kiểm tra
+Đảng ủy
+doanh nghiệp
+cơ quan
+Kinh tế
+chiến binh
+Nông dân
+Liên đoàn
+lao động
+Đoàn Thanh niên
+Cộng sản
+Liên hiệp
+Phụ nữ
+Mặt trận
+Tổ quốc
+Hội đồng
+Ngoại vụ
+Nội vụ
+Tư pháp
+Chỉ huy
+Quân sự
+Chi cục
+Kiểm lâm
+phát thanh
+truyền hình
+Kho bạc
+Ngân hàng
+Phân viện
+quản trị
+Đô thị
+Quận đoàn
+Huyện đoàn
+thương mại
+tiểu học
+trung học
+đại học
+mầm non
+mẫu giáo
